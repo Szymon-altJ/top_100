@@ -12,3 +12,4 @@ Obok autorów i nazwy utworu, program stara się też dobrać gatunek muzyki jak
 -pandas
 -wikipedia
 -wptools
+-re
